@@ -1,6 +1,8 @@
 ## Hi there ！👋
 欢迎来到Dm_c的主页！浑水摸鱼大学生一枚，可以称呼我为大麦茶。🌱
 
+![Zihui](https://github.com/user-attachments/assets/94520d3c-46fb-4c78-82d8-3505ca975fc8)
+
 ## 关于我 💬
 坐标福州 / Fur / 剧情向游戏爱好者 / 唯二会喜欢的运动是游泳和羽毛球？
 
@@ -8,7 +10,6 @@
 
 祝愿自己在所剩不多的大学时光找到一条合适的路。
 
-![水月](https://github.com/user-attachments/assets/6ed473b4-6c56-4080-ba15-b532f3ad6696)
 
 <!--
 **Dmc-fur/Dmc-fur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
