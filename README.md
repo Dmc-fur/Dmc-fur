@@ -8,7 +8,7 @@
 
 祝愿自己在所剩不多的大学时光找到一条合适的路。
 
-  
+![水月](https://github.com/user-attachments/assets/6ed473b4-6c56-4080-ba15-b532f3ad6696)
 
 <!--
 **Dmc-fur/Dmc-fur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
