@@ -1,5 +1,6 @@
 ## Hi there ！👋
 欢迎来到Dm_c的主页！浑水摸鱼大学生一枚，可以称呼我为大麦茶。🌱
+ // Welcome to my homepage！ I'm KangPei Chen , you can call me Dmc
 
 ![zihui（去背景）](https://github.com/user-attachments/assets/94dfaeed-6c3f-48dd-a36d-b8a4b4c77de4)
 
@@ -10,7 +11,7 @@
 
 祝愿自己在所剩不多的大学时光找到一条合适的路。
 
-
+// Major in Computer science at Fuzhou University.  The practical application of computer is my main study direction.
 <!--
 **Dmc-fur/Dmc-fur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
