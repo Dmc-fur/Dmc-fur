@@ -1,5 +1,5 @@
 ## Hi there ！👋
-欢迎来到Dm_c的主页！浑水摸鱼大学生一枚，可以称呼我为大麦茶。🌱
+欢迎来到Dm_c的主页！大三生一枚，可以称呼我为大麦茶。🌱
 
  // Welcome to my homepage！ I'm KangPei Chen , you can call me Dmc
 
@@ -8,9 +8,8 @@
 ## 关于我 💬
 坐标福州 / Fur / 剧情向游戏爱好者 / 唯二会喜欢的运动是游泳和羽毛球？
 
-就读于福大计算机系，仍在寻找前进方向，未来或许会考研
+就读于福大计算机系，仍在寻找前进方向✨
 
-祝愿自己在所剩不多的大学时光找到一条合适的路。
 
 // Major in Computer science at Fuzhou University.  The practical application of computer is my main study direction.
 <!--
